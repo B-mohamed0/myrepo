@@ -3,3 +3,4 @@ new file created on master
 
 a new file created on b1
 
+new text file for b2
